@@ -11,8 +11,7 @@ class ZFunctionTest {
         "somestring, string, true",
         "somestring, apple, false"
     )
-    fun isTextContainsSubstringTest(text: String, sub: String, expectedResult: Boolean) {
+    fun isTextContainsSubstringTest(text: String, sub: String, expectedResult: Boolean) =
         assertEquals(expectedResult, isTextContainsSubstring(text, sub))
-    }
 
 }
