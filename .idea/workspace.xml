@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6af503f4-7479-479b-9c1d-ab843607ab19" name="Changes" comment="Реализация алгоритма shift-and">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/ru/vsu/csf/asashina/knuth/morris/pratt/KnuthMorrisPrattAlgorithmTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="runMavenInBackground" value="false" />
+  </component>
+  <component name="ProjectId" id="2cImWbVIGndywjce8ce9N2BVonO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.vsu.csf.asashina.knuth.morris.pratt" />
+      <recent name="ru.vsu.csf.asashina.shift.and" />
+      <recent name="ru.vsu.csf.asashina.z.blocks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UkkonenAlgorithmTest (1)">
+    <configuration name="KnuthMorrisPrattAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vsu.csf.asashina.knuth.morris.pratt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.vsu.csf.asashina.knuth.morris.pratt" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.csf.asashina.knuth.morris.pratt.KnuthMorrisPrattAlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiftAndAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vsu.csf.asashina.shift.and.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.vsu.csf.asashina.shift.and" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.csf.asashina.shift.and.ShiftAndAlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UkkonenAlgorithmTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vsu.csf.asashina.ukkonen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.vsu.csf.asashina.ukkonen" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.csf.asashina.ukkonen.UkkonenAlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UkkonenAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vsu.csf.asashina.ukkonen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.vsu.csf.asashina.ukkonen" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.csf.asashina.ukkonen.UkkonenAlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UkkonenAlgorithmTest.buildSuffixTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vsu.csf.asashina.ukkonen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.vsu.csf.asashina.ukkonen" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.csf.asashina.ukkonen.UkkonenAlgorithmTest" />
+      <option name="METHOD_NAME" value="buildSuffixTreeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UkkonenAlgorithmTest (1)" />
+        <item itemvalue="JUnit.UkkonenAlgorithmTest" />
+        <item itemvalue="JUnit.KnuthMorrisPrattAlgorithmTest" />
+        <item itemvalue="JUnit.UkkonenAlgorithmTest.buildSuffixTreeTest" />
+        <item itemvalue="JUnit.ShiftAndAlgorithmTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6af503f4-7479-479b-9c1d-ab843607ab19" name="Changes" comment="" />
+      <created>1707807501148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707807501148</updated>
+      <workItem from="1707807503455" duration="826000" />
+      <workItem from="1708161347622" duration="492000" />
+      <workItem from="1708185190462" duration="4116000" />
+      <workItem from="1708410212341" duration="2183000" />
+      <workItem from="1708705777160" duration="400000" />
+      <workItem from="1708974913506" duration="1761000" />
+      <workItem from="1709014316528" duration="1986000" />
+      <workItem from="1710862974272" duration="8365000" />
+      <workItem from="1711383706885" duration="9333000" />
+      <workItem from="1711437212550" duration="1034000" />
+    </task>
+    <task id="LOCAL-00001" summary="Реализация поиска подстроки в тексте">
+      <created>1708189576093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708189576093</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Реализация алгоритма shift-and">
+      <created>1709026039259</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709026039259</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Реализация поиска подстроки в тексте" />
+    <MESSAGE value="Реализация алгоритма shift-and" />
+    <option name="LAST_COMMIT_MESSAGE" value="Реализация алгоритма shift-and" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/ru/vsu/csf/asashina/shift/and/ShiftAndAlgorithm.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/ru/vsu/csf/asashina/ukkonen/UkkonenAlgorithmTest.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
